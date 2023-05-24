@@ -1,3 +1,1 @@
-# actividad de consolidación de saberes N°2
-Nahuel Racciatti
-2023
+# Actividad de consolidación de saberes N°2
