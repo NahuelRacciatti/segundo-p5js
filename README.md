@@ -1,8 +1,4 @@
 # Actividad de consolidación de saberes N°2
-<<<<<<< HEAD
-Nahuel Racciatti
-2023
-=======
 
 ## Nahuel Racciatti
 
